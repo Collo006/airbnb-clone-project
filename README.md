@@ -49,3 +49,23 @@ QA/testers-Test the application for bugs, usability issues, and performance
 DevOps Engineer-Manage deployment pipelines, infrastructure, and automation.
 Product owner-Represents the customer’s needs and manages the product backlog.
 Scrum master-Facilitates Scrum ceremonies and removes blockers for the team.
+
+# UI Component Patterns
+
+Navbar
+Logo
+Search bar
+User navigation
+Responsive menu
+
+Property Card
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+
+Footer
+Site links
+Company information
+Social media links
+Copyright information
