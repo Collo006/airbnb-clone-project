@@ -41,3 +41,11 @@ Secondary Text: Circular, Book (400), 14px
  Identifying design properties in a mock-up ensures that the visual and interactive intentions of the design are clearly communicated, consistently implemented, and efficiently executed. It’s a key step in turning great ideas into functional, user-centered products.
 
 # Project Roles and Responsibilities
+Project manager-Oversees the entire project timeline, resources, and communication
+Front-end developers-Build the parts of the application that users interact with (UI/UX)
+Back-end developers-Handle server-side logic, databases, and APIs.
+Designers-Design the visual layout (UI) and optimize usability and user experience (UX).
+QA/testers-Test the application for bugs, usability issues, and performance
+DevOps Engineer-Manage deployment pipelines, infrastructure, and automation.
+Product owner-Represents the customer’s needs and manages the product backlog.
+Scrum master-Facilitates Scrum ceremonies and removes blockers for the team.
