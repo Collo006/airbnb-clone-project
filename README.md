@@ -39,3 +39,5 @@ Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 
  Identifying design properties in a mock-up ensures that the visual and interactive intentions of the design are clearly communicated, consistently implemented, and efficiently executed. It’s a key step in turning great ideas into functional, user-centered products.
+
+# Project Roles and Responsibilities
